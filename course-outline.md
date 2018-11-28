@@ -4,6 +4,7 @@
 **Team:** Pierre Bellec, Elizabeth DuPre, Greg Kiar, Jacob Vogel
 
 **Date:** December 12th, 9h-17h
+
 **Location:** Amphithéâtre “le groupe Maurice”, CRIUGM
 
 **Summary:** This course will be a hands-on/type-along introduction to machine learning for neuroimaging problems with scikit-learn and nilearn.
@@ -30,8 +31,7 @@ This part of the course will follow the tutorial examples in nilearn, found [her
 
 - Basic familiarity with Python would be preferable
 - You will need enough space for Anaconda (~3GB) and all the data.
-- Before attending the course, users should follow installation instructions:
-http://nilearn.github.io/introduction.html#installation
+- Before attending the course, users should follow installation instructions [here](http://nilearn.github.io/introduction.html#installation)
 - download example data by executing the following lines of Python code:
 
 ```
