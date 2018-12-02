@@ -22,20 +22,10 @@ This part of the course will follow the scikit-learn chapter of the scipy-lectur
 
 ### Afternoon (13h30-17h): introduction to nilearn
 
-This part of the course will follow the tutorial examples in nilearn, found [here](http://nilearn.github.io/auto_examples/index.html#general-examples). This includes:
-- MRI data manipulation and visualization with nilearn (8.1.2)
-- Extracting features from rsfmri data (8.4.4)
-- New resting state tutorial (todo)
+This part of the course will provide a general introduction to nilearn, building off of [several example analyses](http://nilearn.github.io/auto_examples/index.html#general-examples).
 
 ### Prerequisites
 
 - Basic familiarity with Python would be preferable
-- You will need enough space for Anaconda (~3GB) and all the data.
-- Before attending the course, users should follow installation instructions [here](http://nilearn.github.io/introduction.html#installation)
-- download example data by executing the following lines of Python code:
-
-```
-from nilearn import datasets
-datasets.fetch_haxby()
-datasets.fetch_adhd()
-```
+- You will need enough space for Miniconda and all the course data (~3GB).
+- Before attending the course, users should follow nilearn installation instructions available [here](http://nilearn.github.io/introduction.html#installation)
