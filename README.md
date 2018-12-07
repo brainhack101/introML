@@ -7,3 +7,5 @@ Welcome to the educational workshops @ MAIN 2018! On this page you'll find resou
 and,
 
 "[Deep Learning for Neuroimaging with Keras](./dl-course-outline.md)"
+
+Register on [EventBrite](https://www.eventbrite.ca/e/deep-learning-in-neuroimaging-machine-learning-scikit-learn-nilearn-tickets-53388406160){: .btn} !
