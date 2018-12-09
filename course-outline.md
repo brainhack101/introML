@@ -27,5 +27,15 @@ This part of the course will provide a general introduction to nilearn, building
 ### Prerequisites
 
 - Basic familiarity with Python would be preferable
-- You will need enough space for Miniconda and all the course data (~3GB).
-- Before attending the course, users should follow nilearn installation instructions available [here](http://nilearn.github.io/introduction.html#installation)
+- You will need enough space for Anaconda and all the course data (~5GB).
+
+If you are already savvy with Python and just want a tl;dr summary, here’s all you need to know:
+
+1. Join the [Brainhack Slack](https://brainhack-slack-invite.herokuapp.com/) group and join the [main-nilearn-2018](https://brainhack.slack.com/messages/CEQB7U15M/) channel 
+2. Download and install python with the full-suite 64-bit [Anaconda](https://www.anaconda.com/download/) distribution
+3. Download the [data](https://osf.io/5hju4/files/) and remember where you store it!
+4. Download or clone the Intro to ML [repository](https://github.com/brainhack101/introML)
+5. Test everything by activating the environment, opening the NAME OF NOTEBOOK notebook and running the first few cells
+
+For detailed instructions, view the full [installation instructions](https://docs.google.com/document/d/1G0QHtkZDklE5EEwbtTSruSijHhAoFIXoeDxk0AyVjM0/edit?usp=sharing).
+
