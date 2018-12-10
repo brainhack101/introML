@@ -12,7 +12,7 @@ Register on [EventBrite](https://www.eventbrite.ca/e/deep-learning-in-neuroimagi
 
 Join the [brainhack slack](https://brainhack-slack-invite.herokuapp.com/) and the #main-dl-2018 (Dec 11th) and/or #main-nilearn-2018 (Dec 12th) channel. 
 
-Breakfast (8:30 am) and lunch included. The training sessions will run from 9 am to 5 pm both days. All training sessions will be at the Groupe Maurice amphitheatre, at the [centre de recherche de l'institut de gériatrie de Montréal](https://goo.gl/maps/ouhdXKKWtko). 4545 Queen Mary Rd, Montreal, QC H3W 1W6, Canada. Metro station: snowdon (orange/blue lines), côte-des-neiges (blue line). 
+Breakfast (8:30 am) and lunch are included. The training sessions will run from 9 am to 5 pm both days. All training sessions will be at the Groupe Maurice amphitheatre, at the [centre de recherche de l'institut de gériatrie de Montréal](https://goo.gl/maps/ouhdXKKWtko). 4545 Queen Mary Rd, Montreal, QC H3W 1W6, Canada. Metro station: snowdon (orange/blue lines), côte-des-neiges (blue line). 
 ![CRIUGM](criugm.jpg)
 
 
