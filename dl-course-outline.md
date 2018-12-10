@@ -1,5 +1,4 @@
-## Deep Learning for Neuroimaging ...
-##   ... with Keras
+## Deep Learning for Neuroimaging 
 
 **Team:** Andrew Doyle, Joseph Paul Cohen, Thomas Funck, Christopher Beckham
 
