@@ -3,7 +3,7 @@
 
 **Team:** Pierre Bellec, Elizabeth DuPre, Greg Kiar, Jacob Vogel
 
-**Date:** December 12th, 9h-17h
+**Date:** December 12th, 9h-17h. Breakfast/registration at 8h30.
 
 **Location:** Amphithéâtre “le groupe Maurice”, CRIUGM
 
