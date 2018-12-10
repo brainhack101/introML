@@ -35,8 +35,8 @@ If you are already savvy with Python and just want a tl;dr summary, here’s all
 2. Download and install python with the full-suite 64-bit [Anaconda](https://www.anaconda.com/download/) distribution
 3. Download the [data](https://osf.io/5hju4/files/) and remember where you store it!
 4. Download or clone the Intro to ML [repository](https://github.com/brainhack101/introML)
-5. Install the following packages: (with pip install) nilearn scipy; (with conda install) matplotlib scikit-learn jupyter pandas seaborn
-6. Test everything by activating the environment, opening one of the MAIN-tutorial .ipynb notebooks and running the first few cells
+5. Install the necessary packages: `pip install nilearn scipy matplotlib scikit-learn jupyter pandas seaborn`
+6. Test everything by opening one of the MAIN-tutorial .ipynb notebooks and running the first few cells
 
 For detailed instructions, view the full [installation instructions](https://docs.google.com/document/d/1G0QHtkZDklE5EEwbtTSruSijHhAoFIXoeDxk0AyVjM0/edit?usp=sharing).
 
