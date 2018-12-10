@@ -3,7 +3,7 @@
 
 **Team:** Andrew Doyle, Joseph Paul Cohen, Thomas Funck, Christopher Beckham
 
-**Date:** December 11th, 9h-17h
+**Date:** December 11th, 9h-17h. Breakfast/registration at 8h30.
 
 **Location:** Amphithéâtre “le groupe Maurice”, CRIUGM
 
