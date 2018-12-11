@@ -1,9 +1,8 @@
-## Deep Learning for Neuroimaging ...
-##   ... with Keras
+## Deep Learning for Neuroimaging 
 
 **Team:** Andrew Doyle, Joseph Paul Cohen, Thomas Funck, Christopher Beckham
 
-**Date:** December 11th, 9h-17h
+**Date:** December 11th, 9h-17h. Breakfast/registration at 8h30.
 
 **Location:** Amphithéâtre “le groupe Maurice”, CRIUGM
 
@@ -54,7 +53,6 @@ Clinical data successes using machine learning, (continued)
  
 4:00 pm – 5:00 pm: 
 [Generative Adversarial Networks](https://github.com/brainhack101/IntroDL/blob/master/presentations/ChristopherBeckhamGANs.pdf) - with [hands-on GAN](https://colab.research.google.com/drive/1KN0E_sORG-Bi7evOVtl6jONphI05ZiVL) (Christopher Beckham)
-
 
 ### Requirements
 * Basic familiarity with programming in Python is an asset, but not a requirement.
