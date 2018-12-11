@@ -52,7 +52,7 @@ Clinical data successes using machine learning, (continued)
 (Joseph Paul Cohen)
  
 4:00 pm – 5:00 pm: 
-[Generative Adversarial Networks](https://github.com/brainhack101/IntroDL/blob/master/presentations/ChristopherBeckhamGANs.pdf) - with [hands-on GAN](http://nbviewer.jupyter.org/github/brainhack101/IntroDL/blob/master/LSGAN_MLP_in_Keras.ipynb) (Christopher Beckham)
+[Generative Adversarial Networks](https://github.com/brainhack101/IntroDL/blob/master/presentations/ChristopherBeckhamGANs.pdf) - with [hands-on GAN, on collab](https://colab.research.google.com/drive/1KN0E_sORG-Bi7evOVtl6jONphI05ZiVL) (Christopher Beckham)
 
 
 ### Requirements
