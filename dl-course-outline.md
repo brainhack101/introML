@@ -9,10 +9,10 @@
 
 **Summary:** Deep learning is one of the most promising avenues towards achieving artificial general intelligence, and a strong new tool for the analysis of neuroimaging data. This course will offer an introduction into the theory behind how representations are automatically learned from data, and offer students an introduction into how to use the Keras library to formulate and solve a variety of deep learning problems using hands-on examples.
 
-Learning Objectives:
+**Learning Objectives:**
 * Understand how **representations are learned** in deep neural networks
 * Implement a **convolutional neural network** in Keras on neuroimaging data
-* Learn how **embeddings and recurrent models** can be used with time series dataed
+* Learn how **embeddings** can be learned
 
 
 ### Schedule:
@@ -42,7 +42,7 @@ Lunch
 Looking Inside the Black Box - with Interpretability Hands-on (Andrew Doyle)
 
 2:15 pm – 3:15 pm: 
-Clinical data successes using machine learning - with Word2vec hands-on
+[Clinical data successes using machine learning](https://docs.google.com/presentation/d/155oZORo29kpr1MNTwYbO2qEoYOIzHeBsDZCbI0NBmx8/edit) - with [Word2vec hands-on](https://colab.research.google.com/drive/1g4zvEg921sLQK-VsBk5mMb2-h4goCGyd)
 (Joseph Paul Cohen)
  
 3:15 pm – 3:30 pm: 
@@ -53,7 +53,7 @@ Clinical data successes using machine learning, (continued)
 (Joseph Paul Cohen)
  
 4:00 pm – 5:00 pm: 
-[Generative Adversarial Networks](https://github.com/brainhack101/IntroDL/blob/master/presentations/ChristopherBeckhamGANs.pdf) - with [hands-on GAN](http://nbviewer.jupyter.org/github/brainhack101/IntroDL/blob/master/LSGAN_MLP_in_Keras.ipynb) (Christopher Beckham)
+[Generative Adversarial Networks](https://github.com/brainhack101/IntroDL/blob/master/presentations/ChristopherBeckhamGANs.pdf) - with [hands-on GAN](https://colab.research.google.com/drive/1KN0E_sORG-Bi7evOVtl6jONphI05ZiVL) (Christopher Beckham)
 
 
 ### Requirements
