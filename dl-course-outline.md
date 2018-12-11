@@ -19,15 +19,15 @@
 #### Morning (9h-12h30): Introduction & Segmentation with Deep Learning
 
 9:00 am – 10:00 am: 
-Introduction to Deep Learning for Neuroimaging (Andrew Doyle)
+[Introduction to Deep Learning for Neuroimaging](https://www.dropbox.com/s/bju7auqwjslhhwy/IntroDL%20MAIN.pdf?dl=0) (Andrew Doyle)
  
-10:00 am – 10:45 am: 
+10:00 am – 11:00 am: 
 Deep Learning in Keras – [Hands-on Defacing Detector](https://colab.research.google.com/drive/1EgdnWZeNqmzqEmnSR9PUnYXlTjeu1wAU) (Andrew Doyle)
  
-10:45 am – 11:00 am: 
+11:00 am – 11:15 am: 
 Break
  
-11:00 am – 11:30 am: 
+11:15 am – 11:30 am: 
 Deep Learning for Segmentation - with [hands-on U-Net](https://github.com/tfunck/minc_keras/blob/master/main2019.ipynb?fbclid=IwAR1jZFJgBM8ozCxtuGjSjrmHzsXS5IYr2iORjn7KGuYEEhH8Vqk7ygw2x8I)  (Thomas Funck)
  
 11:30 am – 12:30 am: 
@@ -37,22 +37,15 @@ Brain Extraction with [minc-keras](https://github.com/tfunck/minc_keras) (Thomas
 Lunch
  
 #### Afternoon (13h30-17h00): Getting Deeper
-1:30 pm – 2:30 pm: 
-Looking Inside the Black Box - with Interpretability Hands-on (Andrew Doyle)
+1:30 pm – 2:45 pm: 
+[Looking Inside the Black Box](https://www.dropbox.com/s/dgmzittmthc41um/Interpretability.pdf?dl=0) - with Interpretability Hands-on (Andrew Doyle)
 
-2:15 pm – 3:15 pm: 
+2:45 pm – 4:00 pm: 
 [Clinical data successes using machine learning](https://docs.google.com/presentation/d/155oZORo29kpr1MNTwYbO2qEoYOIzHeBsDZCbI0NBmx8/edit) - with [Word2vec hands-on](https://colab.research.google.com/drive/1g4zvEg921sLQK-VsBk5mMb2-h4goCGyd)
 (Joseph Paul Cohen)
  
-3:15 pm – 3:30 pm: 
-Break
- 
-3:30 pm – 4:00 pm: 
-Clinical data successes using machine learning, (continued)
-(Joseph Paul Cohen)
- 
 4:00 pm – 5:00 pm: 
-[Generative Adversarial Networks](https://github.com/brainhack101/IntroDL/blob/master/presentations/ChristopherBeckhamGANs.pdf) - with [hands-on GAN](https://colab.research.google.com/drive/1KN0E_sORG-Bi7evOVtl6jONphI05ZiVL) (Christopher Beckham)
+[Generative Adversarial Networks](https://www.dropbox.com/s/vy5vdmubowv9g2h/gans.pdf?dl=0) - with [hands-on GAN](https://colab.research.google.com/drive/1KN0E_sORG-Bi7evOVtl6jONphI05ZiVL) (Christopher Beckham)
 
 ### Requirements
 * Basic familiarity with programming in Python is an asset, but not a requirement.
