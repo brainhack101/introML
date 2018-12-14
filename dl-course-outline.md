@@ -27,11 +27,8 @@ Deep Learning in Keras – [Hands-on Defacing Detector](https://colab.research.g
 11:00 am – 11:15 am: 
 Break
  
-11:15 am – 11:30 am: 
-Deep Learning for Segmentation - with [hands-on U-Net](https://github.com/tfunck/minc_keras/blob/master/main2019.ipynb?fbclid=IwAR1jZFJgBM8ozCxtuGjSjrmHzsXS5IYr2iORjn7KGuYEEhH8Vqk7ygw2x8I)  (Thomas Funck)
- 
-11:30 am – 12:30 am: 
-Brain Extraction with [minc-keras](https://github.com/tfunck/minc_keras) (Thomas Funck)
+11:15 am – 12:30 am: 
+Deep Learning for Segmentation - with [hands-on U-Net](https://colab.research.google.com/github/tfunck/minc_keras/blob/master/main2018.ipynb)  (Thomas Funck)
  
 12:30 pm  - 1:30 pm: 
 Lunch
