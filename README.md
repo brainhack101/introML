@@ -15,4 +15,13 @@ Join the [brainhack slack](https://brainhack-slack-invite.herokuapp.com/) and th
 Breakfast (8:30 am) and lunch are included. The training sessions will run from 9 am to 5 pm both days. All training sessions will be at the Groupe Maurice amphitheatre, at the [centre de recherche de l'institut de gériatrie de Montréal](https://goo.gl/maps/ouhdXKKWtko). 4545 Queen Mary Rd, Montreal, QC H3W 1W6, Canada. Metro station: snowdon (orange/blue lines), côte-des-neiges (blue line). 
 ![CRIUGM](criugm.jpg)
 
+### Usage
 
+To use the docker image, firt after cloning the repository and cd to it, build it :
+```
+sudo docker build --tag=introml .
+```
+You can now run the container :
+```
+sudo docker run -p 8888:8888 -it introml jupyter notebook --notebook-dir=/home/jovyan/work/ --allow-root --no-browser --ip=0.0.0.0
+```
