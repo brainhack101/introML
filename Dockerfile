@@ -5,10 +5,6 @@ LABEL maintainer="Pierre Bellec <pierre.bellec@gmail.com>"
 USER jovyan
 
 # Copying the repository inside the container
-RUN wget https://github.com/brainhack101/introML/archive/0.1.zip
-RUN unzip 0.1.zip
-RUN rm 0.1.zip
-
 COPY . /home/jovyan 
 
 # Instaling the Kamalaker's main fecther

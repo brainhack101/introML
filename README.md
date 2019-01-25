@@ -17,7 +17,7 @@ Breakfast (8:30 am) and lunch are included. The training sessions will run from 
 
 ### Usage
 
-To use the docker image, firt after cloning the repository and cd to it, build it :
+To use the docker image, first after cloning the repository and cd to it, build it :
 ```
 sudo docker build --tag=introml .
 ```
