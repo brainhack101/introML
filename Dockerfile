@@ -8,7 +8,7 @@ USER jovyan
 COPY . /home/jovyan 
 
 # Instaling the Kamalaker's main fecther
-RUN pip install --user git+https://github.com/KamalakerDadi/nilearn.git@16f2df26401e5b6a16ff134f4da71ff920e3ac40
+RUN pip install -r requirements.txt
 
 # Downloading the data
 RUN ["/bin/bash", "/home/jovyan/data_fetch.sh"]

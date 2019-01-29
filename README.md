@@ -23,5 +23,5 @@ sudo docker build --tag=introml .
 ```
 You can now run the container :
 ```
-sudo docker run -p 8888:8888 -it introml jupyter notebook --allow-root --no-browser --ip=0.0.0.0
+sudo docker run -p 8888:8888 -it introml jupyter notebook --no-browser --ip=0.0.0.0
 ```
