@@ -1,12 +1,14 @@
 FROM jupyter/datascience-notebook
 
-MAINTAINER Pierre Bellec <pierre.bellec@gmail.com>
+LABEL maintainer="Pierre Bellec <pierre.bellec@gmail.com>"
 
 USER jovyan
 
-RUN pip install nilearn
+# Copying the repository inside the container
+COPY . /home/jovyan 
 
-# Get the files of the project
-RUN wget https://github.com/brainhack101/introML/archive/0.1.zip
-RUN unzip 0.1.zip
-RUN rm 0.1.zip
+# Instaling the Kamalaker's main fecther
+RUN pip install -r requirements.txt
+
+# Downloading the data
+RUN ["/bin/bash", "/home/jovyan/data_fetch.sh"]
